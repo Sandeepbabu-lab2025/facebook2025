@@ -1,3 +1,5 @@
-adding this line in uat to demo for PR
+ssh url checking
+fetch line
+stash line
 addeing line for cherry pick
 this deploy file updated
